@@ -4,9 +4,6 @@
 
 ### Output
 
-![Project 1](./Project%2001/output.png)
-
-- you are not allowed to change the HTML file, You have to fix the CSS file.
 
 ---
 
@@ -14,16 +11,9 @@
 
 ### Output
 
-![Project 1](./Project%2002/output.png)
-
-- you are not allowed to change the HTML file, You have to fix the CSS file.
 
 ---
 
 ## Project 3
 
 ### Output
-
-![Project 1](./Project%2003/output.png)
-
-- you are not allowed to change the HTML file, You have to fix the CSS file.
